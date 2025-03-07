@@ -5,7 +5,7 @@
 ## ➡️ Overview
 Entity Framework (EF) is an Object-Relational Mapper (ORM) that simplifies database interactions in ASP.NET Web API projects. It eliminates the need for complex SQL queries by allowing developers to interact with databases using C# objects.
 
-## Why Use Entity Framework in API Projects?
+## ⁉️ Why Use Entity Framework in API Projects?
 1. **Abstraction & Simplification**: EF abstracts database operations, making it easier to work with data without writing raw SQL.
 2. **Productivity Boost**: Developers can focus on business logic rather than database queries, reducing development time.
 3. **Database Independence**: EF supports multiple database providers (e.g., MSSQL, PostgreSQL, MySQL), making applications more flexible.
@@ -13,14 +13,14 @@ Entity Framework (EF) is an Object-Relational Mapper (ORM) that simplifies datab
 5. **Built-in Migrations**: EF includes a migration system to version control database schema changes.
 6. **Security & Maintainability**: Strongly typed models help prevent SQL injection and ensure better maintainability.
 
-## Key Features of Entity Framework
+## 🔑 Key Features of Entity Framework
 - **Code First Approach**: Define database schema using C# classes and generate the database automatically.
 - **Database First Approach**: Work with an existing database by generating models from the schema.
 - **LINQ Queries**: Use LINQ (Language Integrated Query) to fetch and manipulate data efficiently.
 - **Automatic Relationship Handling**: Define and manage table relationships easily.
 - **Migration System**: Seamless database updates without losing existing data.
 
-## How to Get Started with Entity Framework in ASP.NET API
+## ⁉️ How to Get Started with Entity Framework in ASP.NET API
 1. **Install Entity Framework Core**:
    ```sh
    dotnet add package Microsoft.EntityFrameworkCore
