@@ -1,8 +1,8 @@
-# Entity-Framework-full-Project
+# 🚀 Entity-Framework-full-Project
 
-# Entity Framework in ASP.NET Web API
+# ➡️ Entity Framework in ASP.NET Web API
 
-## Overview
+## ➡️ Overview
 Entity Framework (EF) is an Object-Relational Mapper (ORM) that simplifies database interactions in ASP.NET Web API projects. It eliminates the need for complex SQL queries by allowing developers to interact with databases using C# objects.
 
 ## Why Use Entity Framework in API Projects?
