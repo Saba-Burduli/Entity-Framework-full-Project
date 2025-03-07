@@ -29,7 +29,7 @@ Entity Framework (EF) is an Object-Relational Mapper (ORM) that simplifies datab
    dotnet add package Microsoft.EntityFrameworkCore.SqlServer
    dotnet add package Microsoft.EntityFrameworkCore.Tools
    ```
-2. **Define a Database Context**:
+2. ** ✅ Define a Database Context**:
    ```csharp
    public class AppDbContext : DbContext
    {
@@ -39,12 +39,12 @@ Entity Framework (EF) is an Object-Relational Mapper (ORM) that simplifies datab
        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
    }
    ```
-3. **Configure Dependency Injection in Program.cs**:
+3. ** ✅ Configure Dependency Injection in Program.cs**:
    ```csharp
    builder.Services.AddDbContext<AppDbContext>(options =>
        options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
    ```
-4. **Run Migrations**:
+4. ** ✅ Run Migrations**:
    ```sh
    dotnet ef migrations add InitialCreate
    dotnet ef database update
