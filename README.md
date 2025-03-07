@@ -1,4 +1,3 @@
-## From Saba Burduli (Comic Solvency) 👽
 
 # 🚀 Entity-Framework-full-Project
 
@@ -55,6 +54,7 @@ Entity Framework is a powerful ORM that enhances the efficiency, maintainability
 
 ---
 
+## From Saba Burduli (Comic Solvency) 👽
 **♻️License**: This project is licensed under the MIT License.
 
 
