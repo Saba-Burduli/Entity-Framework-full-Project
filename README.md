@@ -53,7 +53,7 @@ Entity Framework (EF) is an Object-Relational Mapper (ORM) that simplifies datab
 Entity Framework is a powerful ORM that enhances the efficiency, maintainability, and scalability of ASP.NET Web API projects. It provides an abstraction layer that simplifies database operations while offering advanced features like migrations, relationships, and LINQ support. By using EF in your API, you ensure a cleaner, more manageable, and scalable architecture for handling data operations.
 
 ---
-If you want to learn more about This Project you can actually contact me on Mail : **sabagg790@gmail.com**
+ 📥  If you want to learn more about This Project you can actually contact me on Mail : **sabagg790@gmail.com**
 ## From Saba Burduli (Comic Solvency) 👽
 **♻️License**: This project is licensed under the MIT License.
 
